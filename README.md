@@ -14,3 +14,5 @@
 - Open App.js in server
 - Change mongoose.connect("mongodb+srv://<username>:<password>@cluster1.qhga3xo.mongodb.net/Blog?retryWrites=true&w=majority")
 - You are good to go
+# Made by 
+- Manish Ranjan Behera
