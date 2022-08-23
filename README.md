@@ -1,5 +1,5 @@
 # Assignment-8
-- After 3 days and 48+ hrs of continuous coding, I've made this website after some references from documentation and youtube. 
+- After 3 days and around 48+ hrs of continuous coding, I've made this website after some references from documentation and youtube. 
 
 # How to Run (Client)
 - on terminal(I use hyper for ref)
